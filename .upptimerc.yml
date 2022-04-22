@@ -25,10 +25,10 @@ status-website:
   baseUrl: /StatusAPI
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Esports Data Providers
-  introTitle: "**Esports Data Providers** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "This is the **Esports Data Providers** status page ."
+  introMessage: You can see the vitality of our API system 
   navbar:
+    - title: Return
+      href: https://staging-esportsdataprovider.kinsta.cloud
     - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$Minibouts/$StatusAPI
+      href: https://ggscores.github.io/esports-data-provider-status
