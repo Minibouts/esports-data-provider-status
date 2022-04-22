@@ -1,5 +1,5 @@
-owner: ggscores 
-repo: esports-data-provider-status 
+owner: ggscores
+repo: esports-data-provider-status
 
 sites:
   - name: APIV3-Teams
@@ -22,7 +22,7 @@ sites:
 
 status-website:
   #cname: custom.domain
-  baseUrl: /StatusAPI
+  baseUrl: /esports-data-provider-status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Esports Data Providers
   introTitle: "**Esports Data Providers** is the open-source uptime monitor and status page, powered entirely by GitHub."
