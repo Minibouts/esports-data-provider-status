@@ -18,7 +18,7 @@ sites:
     url: https://apiv3.esports-data-provider.com/videogames
     headers:
     - "token: $TOKEN"
-
+    
 status-website:
   #cname: custom.domain
   baseUrl: /StatusAPI
