@@ -19,7 +19,6 @@ sites:
     headers:
     - "token: $TOKEN"
 
-
 status-website:
   #cname: custom.domain
   baseUrl: /StatusAPI
