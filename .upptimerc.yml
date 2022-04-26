@@ -6,14 +6,17 @@ sites:
     url: https://apiv3.esports-data-provider.com/teams
     headers:
     - "token: $TOKEN"
+    
   - name: APIV3-Events
     url: https://apiv3.esports-data-provider.com/events
     headers:
     - "token: $TOKEN"
+    
   - name: APIV3-Matches
     url: https://apiv3.esports-data-provider.com/matches
     headers:
     - "token: $TOKEN"
+    
   - name: APIV3-VideoGames
     url: https://apiv3.esports-data-provider.com/videogames
     headers:
