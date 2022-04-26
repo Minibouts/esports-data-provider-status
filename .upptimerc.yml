@@ -5,22 +5,19 @@ sites:
   - name: APIV3-Teams
     url: https://apiv3.esports-data-provider.com/teams
     headers:
-    - "token: $TOKEN"
-    
+    - "token: test"
   - name: APIV3-Events
     url: https://apiv3.esports-data-provider.com/events
     headers:
-    - "token: $TOKEN"
-    
+    - "token: test"
   - name: APIV3-Matches
     url: https://apiv3.esports-data-provider.com/matches
     headers:
-    - "token: $TOKEN"
-    
+    - "token: test"
   - name: APIV3-VideoGames
     url: https://apiv3.esports-data-provider.com/videogames
     headers:
-    - "token: $TOKEN"
+    - "token: test"
     
 status-website:
   #cname: custom.domain
